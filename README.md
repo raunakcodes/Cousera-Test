@@ -1,2 +1,2 @@
-# Cousera-Test
+# Coursera-Test
 Coursera-test repositary
